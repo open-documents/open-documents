@@ -17,8 +17,10 @@ Free for documents. Open forever! <font color=red>Welcome to contributions.</fon
 
 There are some kinds of baisc documents consisting of javase, linux and various frame such as netty, spring. 
 
+<img src="D:\NoteWithVersionControl\open-documents\PIC\Pasted image 20240402014639.png" width=50%/>
+
 Follows are links to repositories:
-- javase：https://github.com/open-documents/doc-java-javase <img src="https://img.shields.io/badge/javase-blue"/>
+- javase：https://github.com/open-documents/doc-java-javase 
 - 
 
 
