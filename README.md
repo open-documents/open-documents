@@ -9,7 +9,6 @@
 
 
 
----
 ## Introduction  ✨
 
 Free for documents. Open forever! <font color=red>Welcome to contributions.</font>
