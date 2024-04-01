@@ -18,19 +18,17 @@ Free for documents. Open forever! <font color=red>Welcome to contributions.</fon
 There are some kinds of baisc documents consisting of javase, linux and various frame such as netty, spring. 
 
 ---
-<p style="color:#00E0FF;font-style:italic">Java Series：</p>
+Java Series：
 
 <div>
 <img src="./PIC/pic1.png" width=50%/>
 </div>
 
-
-
-
-
-Follows are links to repositories:
+Following below are links to repositories:
 - javase：https://github.com/open-documents/doc-java-javase 
-- 
+- netty：https://github.com/open-documents/doc-java-netty
+- springframe：https://github.com/open-documents/doc-java-spring-frame
+- springboot：https://github.com/open-documents/doc-java-spring-boot
 
 
 
