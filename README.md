@@ -17,8 +17,8 @@ Free for documents. Open forever! <font color=red>Welcome to contributions.</fon
 
 There are some kinds of baisc documents consisting of javase, linux and various frame such as netty, spring. 
 
-
-Java Series
+---
+<font color="00E0FF">Java Series：</font>
 
 <div>
 <img src="./PIC/pic1.png" width=50%/>
