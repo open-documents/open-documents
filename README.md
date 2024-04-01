@@ -17,11 +17,11 @@ Free for documents. Open forever! <font color=red>Welcome to contributions.</fon
 
 There are some kinds of baisc documents consisting of javase, linux and various frame such as netty, spring. 
 
----
+
 Java Series
 
 <div>
-<img src="./pic1.png" width=50%/>
+<img src="./PIC/pic1.png" width=50%/>
 </div>
 
 
