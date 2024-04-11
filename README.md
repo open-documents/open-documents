@@ -11,9 +11,15 @@
 
 ## Introduction  ✨
 
-Free for documents. Open forever! <font color=red>Welcome to contributions.</font>
+Open documents. Born to open! Open forever! <font color=red>Welcome to contributions.</font>
 
-## Exsisting documents  ⚡️
+Problems of existing documents on the Internet.
+- Too many copies! There are so lots of copies of the original version that you don't know who is the first one. 
+- Not official! The contents of existing documents have no references or don't been annotated by what they reference to. 
+
+To solve these problems, we are here!
+
+## Exsisting repositories  ⚡️
 
 There are some kinds of baisc documents consisting of javase, linux and various frame such as netty, spring. 
 
